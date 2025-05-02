@@ -1,4 +1,5 @@
 # STRELOK
+![image](https://github.com/user-attachments/assets/b99824a1-f553-4109-a968-7db05ea55418)
 
 A reconnaissance automation toolkit built for bug bounty hunters and pentesters. STRELOK combines battle-tested CLI tools with AI analysis to make your recon process faster and more effective.
 
